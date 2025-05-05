@@ -1,12 +1,12 @@
 {
-	"geode": "4.3.1",
+	"geode": "4.4.0",
 	"gd": {
 		"win": "2.2074",
 		"android": "2.2074",
 		"mac": "2.2074",
 		"ios": "2.2074"
 	},
-	"version": "v1.1.7",
+	"version": "v1.1.8",
 	"id": "alphalaneous.transparent_lists",
 	"name": "Transparent Lists",
 	"developer": "Alphalaneous",
@@ -16,6 +16,9 @@
         "source": "https://github.com/Alphalaneous/Transparent-Lists",
         "community": "https://discord.gg/Txn2CA5dHF"
     },
+	"dependencies": {
+		"alphalaneous.alphas_geode_utils": ">=v1.0.3"
+	},
 	"tags": [
 		"interface"
 	]
